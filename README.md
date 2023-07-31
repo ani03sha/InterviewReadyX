@@ -1,6 +1,6 @@
 # Interview Ready X
 
-[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://github.com/ani03sha/InterviewReadyX/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ani03sha/InterviewReadyX/blob/main/LICENSE)
 
 \
 Welcome to InterviewReadyX, your ultimate resource hub for achieving interview readiness and excelling in coding challenges! 🚀
