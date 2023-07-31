@@ -1,7 +1,15 @@
 # Interview Ready X
 
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://github.com/ani03sha/InterviewReadyX/blob/main/LICENSE)
+
+\
 Welcome to InterviewReadyX, your ultimate resource hub for achieving interview readiness and excelling in coding challenges! 🚀
 
+> Connect with me via 
+[![Twitter](https://img.shields.io/badge/i_am_anirudh-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/I_am_Anirudh)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirshar/)
+
+\
 Are you preparing for coding interviews and seeking a one-stop destination for top-notch study materials and valuable resources? Look no further! I have created this repository to equip you with the skills, confidence, and strategies needed to conquer any interview challenge that comes your way.
 
 🔥 **Empower Your Journey:** Whether you're a seasoned developer or a coding enthusiast, InterviewReadyX has something for everyone. From data structures and algorithms to system design and problem-solving patterns, this repository curates a diverse collection of handpicked links to sharpen your coding prowess.
