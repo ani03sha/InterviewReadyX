@@ -6,7 +6,7 @@
 Welcome to InterviewReadyX, your ultimate resource hub for achieving interview readiness and excelling in coding challenges! 🚀
 
 > Connect with me via 
-[![Twitter](https://img.shields.io/badge/i_am_anirudh-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/I_am_Anirudh)
+[![Twitter](https://img.shields.io/badge/anirudhology-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/anirudhology)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirshar/)
 
 \
