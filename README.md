@@ -61,6 +61,10 @@ Let's soar together towards coding greatness! 🌠
    - 7.3 [Topics Which You Can't Skip Interview Preparation](https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE)
    - 7.4 [Backtracking Cheatsheet](https://leetcode.com/problems/combination-sum/solutions/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)/)
 
+8. [Java Important Links](#java-important-links)
+   - 8.1 [Jenkov](https://jenkov.com/)
+   - 8.2 [Baeldung](https://www.baeldung.com/java-tutorial)
+
 Feel free to explore these resources to strengthen your coding skills and excel in your coding interviews. Happy learning!
 
 If you find this repository helpful, please consider giving it a ⭐️ to show your appreciation.
